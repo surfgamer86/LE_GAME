@@ -15,7 +15,7 @@ float g_WindowHeight{ 600 };
 
 #pragma region ownDeclarations
 // Declare your own global variables here
-int test{};
+
 // Declare your own functions here
 
 #pragma endregion ownDeclarations
