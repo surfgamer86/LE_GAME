@@ -15,9 +15,8 @@ float g_WindowHeight{ 600 };
 
 #pragma region ownDeclarations
 // Declare your own global variables here
-
+int g_Board[8][8];
 // Declare your own functions here
-
 #pragma endregion ownDeclarations
 
 #pragma region gameFunctions											
