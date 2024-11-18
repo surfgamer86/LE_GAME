@@ -7,6 +7,7 @@
 *.o
 *.obj
 .vs/
+*.db
 # Precompiled Headers
 *.gch
 *.pch
@@ -30,3 +31,15 @@
 *.exe
 *.out
 *.app
+/.vs/
+/.vs/LE_GAME/v17/Browse.VC.db
+/LE_GAME/x64/Debug
+/.vs/LE_GAME/v17/.suo
+/.vs/LE_GAME/v17/DocumentLayout.backup.json
+/Prog1Engine/x64/Debug/Prog1Engine.tlog
+/x64/Debug
+/.vs/LE_GAME/CopilotIndices/0.2.1657.32929/CodeChunks.db
+/.vs/LE_GAME/CopilotIndices/0.2.1657.32929/SemanticSymbols.db-shm
+/.vs/LE_GAME/CopilotIndices/0.2.1657.32929/SemanticSymbols.db-wal
+*.recipe
+*.log

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ilyaa\\Desktop\\DAE\\Trim1\\Programming1\\GameProject\\LE_GAME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54FBB712-20BF-4F20-98A2-837FAE106647}|LE_GAME\\LE_GAME.vcxproj|C:\\Users\\ilyaa\\Desktop\\DAE\\Trim1\\Programming1\\GameProject\\LE_GAME\\LE_GAME\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{54FBB712-20BF-4F20-98A2-837FAE106647}|LE_GAME\\LE_GAME.vcxproj|solutionrelative:LE_GAME\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ilyaa\\Desktop\\DAE\\Trim1\\Programming1\\GameProject\\LE_GAME\\LE_GAME\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LE_GAME\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54FBB712-20BF-4F20-98A2-837FAE106647}|LE_GAME\\LE_GAME.vcxproj|C:\\Users\\ilyaa\\Desktop\\DAE\\Trim1\\Programming1\\GameProject\\LE_GAME\\LE_GAME\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{54FBB712-20BF-4F20-98A2-837FAE106647}|LE_GAME\\LE_GAME.vcxproj|solutionrelative:LE_GAME\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ilyaa\\Desktop\\DAE\\Trim1\\Programming1\\GameProject\\LE_GAME\\LE_GAME\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LE_GAME\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,8 +43,37 @@
               "RelativeToolTip": "LE_GAME\\Game.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-18T14:57:43.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T14:57:43.66Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 310,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
