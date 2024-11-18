@@ -10,8 +10,8 @@ void Start()
 
 void Draw()
 {
-	ClearBackground();
-
+	ClearBackground(0.f,0.f,0.f);
+	DrawGrid();
 
 }
 
@@ -55,5 +55,8 @@ void OnMouseUpEvent(const SDL_MouseButtonEvent& e)
 
 #pragma region ownDefinitions
 // Define your own functions here
+void DrawGrid()
+{
 
+}
 #pragma endregion ownDefinitions

@@ -17,6 +17,7 @@ float g_WindowHeight{ 600 };
 // Declare your own global variables here
 int g_Board[8][8];
 // Declare your own functions here
+void DrawGrid();
 #pragma endregion ownDeclarations
 
 #pragma region gameFunctions											
